@@ -17,7 +17,7 @@ Prefer the light version? See [Coffee Day](https://github.com/bjarneo/omarchy-co
 
 ## Backgrounds
 
-Six wallpapers at 6016x3384 and one coffee-shop video at 3840x2160.
+Eight wallpapers at 6016x3384 and one coffee-shop video at 3840x2160.
 
 ## Credits
 
